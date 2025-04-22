@@ -1,0 +1,6 @@
+2025-04-22T02:31:23.886943 | AnimalMovedEvent(animal_id=7, from=2, to=3)
+2025-04-22T02:31:39.624854 | AnimalMovedEvent(animal_id=7, from=2, to=3)
+2025-04-22T02:34:15.624835 | AnimalMovedEvent(animal_id=7, from=2, to=3)
+2025-04-22T02:34:34.233250 | AnimalMovedEvent(animal_id=7, from=2, to=3)
+2025-04-22T02:41:46.972323 | AnimalMovedEvent(animal_id=7, from=2, to=3)
+2025-04-22T02:41:54.271785 | AnimalMovedEvent(animal_id=7, from=2, to=3)
